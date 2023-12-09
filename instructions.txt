@@ -1,0 +1,9 @@
+python -m venv foocus_env
+    Creates a python enviroment
+.\fooocus_env\Scripts\activate
+    activa el enviroment (y te saldrá (fooocus_env) al comienzo de tu línea en el terminal)
+
+pip install -r requirements_versions.txt
+    updatea si necesitas al final
+
+python entry_with_update.py
